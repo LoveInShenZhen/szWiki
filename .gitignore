@@ -62,3 +62,5 @@ typings/
 
 # hexo generate output
 public/
+
+db.json

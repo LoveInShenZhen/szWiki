@@ -64,3 +64,5 @@ typings/
 public/
 
 db.json
+
+.deploy_git/
